@@ -86,7 +86,7 @@ int main() {
 ```
 ### 📌 Exemplo de Saída
 
-Resumo dos produtos:
+```Resumo dos produtos:
 Produto: Arroz
 Preco Anterior: 20.00
 Preco Atual: 25.00
