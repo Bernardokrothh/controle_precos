@@ -18,10 +18,10 @@ Este projeto é um programa em **C** que calcula a **variação de preço** de p
 ---
 Exemplo de Saida:
 
--Digite o nome do item 1: Arroz
--Digite o preco antigo do item 1: 20
--Digite o novo preco do item 1: 25
--O Arroz teve um AUMENTO de 25.00% no preco.
+ -Digite o nome do item 1: Arroz
+  -Digite o preco antigo do item 1: 20
+  -Digite o novo preco do item 1: 25
+ -O Arroz teve um AUMENTO de 25.00% no preco.
 
 -Resumo dos produtos:
 -Produto: Arroz
