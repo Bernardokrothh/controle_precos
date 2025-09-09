@@ -27,7 +27,7 @@ Exemplo de Saida:
 -Produto: Arroz
 -Preco Anterior: 20.00
 -Preco Atual: 25.00
--Variacao: 25.00%
+-Variacao: 25.00
 -Situacao: AUMENTO ABUSIVO
 
 
