@@ -16,7 +16,7 @@ Este projeto é um programa em **C** que calcula a **variação de preço** de p
 - Exibe um **resumo detalhado** de cada produto, incluindo preços, variação e situação.
 
 ---
-Exemplo de Saida:
+'''Exemplo de Saida:
 
  -Digite o nome do item 1: Arroz
   -Digite o preco antigo do item 1: 20
@@ -28,7 +28,7 @@ Exemplo de Saida:
 -Preco Anterior: 20.00
 -Preco Atual: 25.00
 -Variacao: 25.00
--Situacao: AUMENTO ABUSIVO
+-Situacao: AUMENTO ABUSIVO'''
 
 
 ---
